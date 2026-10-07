@@ -4,14 +4,10 @@ public class StudiKasus124 {
         Scanner sc = new Scanner(System.in);
 
     int hargaPerCup =18000;
-    int jumlahcup;
-    int uangBayar;
     int totalHarga;
     int diskon;
-    int totalBayar;
+    int totalBayar = 0;
     int kembalian;
     int kurang; 
-
-
-    }
+}
 }
