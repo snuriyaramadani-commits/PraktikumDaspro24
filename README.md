@@ -6,7 +6,7 @@ Kelas : 1G
 
 
 
-Test Results of Case Study 2 by <lana>
+Test Results of Case Study 2 by <Lana>
 | No | Type  | Documents | Rank/Funding | Output   | Correct? |
 |----|-------|---------|------------|---------|---------|
 | 1  | 2     | 4         | 3            | Eligible | Yes      |
